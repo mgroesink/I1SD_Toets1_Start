@@ -15,4 +15,8 @@
     <PackageReference Include="coverlet.collector" Version="3.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\I1SD_Toets1_Start\I1SD_Toets1_Start.csproj" />
+  </ItemGroup>
+
 </Project>

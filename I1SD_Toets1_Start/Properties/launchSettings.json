@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "I0SD_Toets1_Start": {
+    "I1SD_Toets1_Start": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

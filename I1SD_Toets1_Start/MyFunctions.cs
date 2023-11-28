@@ -1,4 +1,4 @@
-﻿namespace I0SD_Toets1_Start
+﻿namespace I1SD_Toets1_Start
 {
     public class MyFunctions
     {

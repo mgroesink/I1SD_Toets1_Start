@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using I0SD_Toets1_Start;
+using I1SD_Toets1_Start;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace I0SD_Toets1_Start.Tests
+namespace I1SD_Toets1_Start.Tests
 {
     [TestClass()]
     public class MyFunctionsTests

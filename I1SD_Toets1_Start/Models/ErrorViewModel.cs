@@ -1,4 +1,4 @@
-namespace I0SD_Toets1_Start.Models
+namespace I1SD_Toets1_Start.Models
 {
     public class ErrorViewModel
     {

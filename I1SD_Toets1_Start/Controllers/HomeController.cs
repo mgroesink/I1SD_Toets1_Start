@@ -1,8 +1,8 @@
-﻿using I0SD_Toets1_Start.Models;
+﻿using I1SD_Toets1_Start.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace I0SD_Toets1_Start.Controllers
+namespace I1SD_Toets1_Start.Controllers
 {
     public class HomeController : Controller
     {
